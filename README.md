@@ -57,7 +57,7 @@ This script is tailored for the VA Workstudy program but can be customized for s
 ## Output
 
 - A Google Sheet will be created per pay period, named like:
-  [UNITY_ID]PP[Number][Start Date]
+  [UNITY_ID]\_PP\_[Number][Start Date]
 - Each sheet includes:
 - **DATE**: Day of the work event
 - **NO. OF HOURS**: Hours worked that day
