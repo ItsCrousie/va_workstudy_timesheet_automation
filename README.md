@@ -59,11 +59,11 @@ This script is tailored for the VA Workstudy program but can be customized for s
 - A Google Sheet will be created per pay period, named like:
   [UNITY_ID]\_PP[Number]\_[Start Date]
 - Each sheet includes:
-- **DATE**: Day of the work event
-- **NO. OF HOURS**: Hours worked that day
-- **CUMULATIVE TO DATE**: Running total of hours worked
-- **Initials**: Your initials
-- Total earnings are calculated at the bottom of each sheet.
+  - **DATE**: Day of the work event
+  - **NO. OF HOURS**: Hours worked that day
+  - **CUMULATIVE TO DATE**: Running total of hours worked
+  - **Initials**: Your initials
+  - Total earnings are calculated at the bottom of each sheet.
 
 ---
 
