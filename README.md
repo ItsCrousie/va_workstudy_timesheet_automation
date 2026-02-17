@@ -57,3 +57,26 @@ This script is tailored for the VA Workstudy program but can be customized for s
 ## Output
 
 - A Google Sheet will be created per pay period, named like:
+  [UNITY_ID]PP[Number][Start Date]
+- Each sheet includes:
+- **DATE**: Day of the work event
+- **NO. OF HOURS**: Hours worked that day
+- **CUMULATIVE TO DATE**: Running total of hours worked
+- **Initials**: Your initials
+- Total earnings are calculated at the bottom of each sheet.
+
+---
+
+## Notes
+
+- Hours are rounded up to the nearest whole hour.
+- Pay periods split automatically if maximum hours or days are reached.
+- Header row background color and other formatting can be customized in the script.
+
+---
+
+## License
+
+This project is open-source. Feel free to use and modify for your work-study tracking needs.
+
+
